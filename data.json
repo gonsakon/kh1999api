@@ -7,7 +7,34 @@
   "data": {
     "article": [
       {
+        "type": "Label"
+      },
+      {
         "type": "環保局"
+      },
+      {
+        "type": "環保局"
+      },
+      {
+        "type": "Label"
+      },
+      {
+        "type": "Label"
+      },
+      {
+        "type": "Label"
+      },
+      {
+        "type": "Label"
+      },
+      {
+        "type": "養工處"
+      },
+      {
+        "type": "養工處"
+      },
+      {
+        "type": "交通局"
       }
     ]
   }
